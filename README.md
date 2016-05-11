@@ -1,0 +1,1 @@
+# git-hook-pre-receive-reject-merge-commit
